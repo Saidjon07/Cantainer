@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+body{
+    background-color: rgba(205, 93, 93, 1);
+}
+
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.gold{
+    color: yellow ;
+}
+
+h1{
+font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 64px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color: white;
+margin-top: 30px; 
+}
+
+.boxes{
+   margin-top:46px ;
+}
+
+.brnma{
+    display: flex;
+    gap: 101px;
+    justify-content: space-between;
+    font-weight: bold;
+    align-items: center;
+}
+
+.logo{
+    font-size: 40px;
+}
+
+.card{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    color: white;
+    text-align: center;
+}
+
+.card h3{
+    font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+margin: 18px 0;
+}
+
+.card p{
+font-family: inter;
+font-weight: 200;
+font-style: Regular;
+font-size: 15px;
+
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+margin: 18px   ;
+}
+
+.line1{
+display: flex;
+flex-wrap: wrap;
+gap: 30px;
+justify-content: space-between;
+padding-top: 23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
